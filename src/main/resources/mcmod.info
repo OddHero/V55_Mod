@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "V55_Mod",
+    "name": "V55 Mod",
+    "description": "Lerndriven Mod",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["V55V551N"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "dependencies": []
+  }
+]
